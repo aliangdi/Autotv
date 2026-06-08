@@ -1,3 +1,4 @@
+自动剪辑视频
 <h1 align="center">🎬 Pixelle-Video —— AI 全自动短视频引擎</h1>
 
 <p align="center"><a href="README_EN.md">English</a> | <b>中文</b></p>
